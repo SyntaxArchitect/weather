@@ -41,7 +41,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 - Enter the name of a city in the input field and click the search button or press "Enter" to fetch weather data for that city.
 - The weather data for the selected city, including temperature, description, humidity, and more, will be displayed.
-- You can also toggle between Celsius and Fahrenheit units using the dropdown menu.
 
 ## Contributing
 
