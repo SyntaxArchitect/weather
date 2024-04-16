@@ -32,7 +32,7 @@ const WeatherDashboard: React.FC = () => {
             <div className='flex items-center justify-between mb-10'>
                 <h1 className="text-3xl text-slate-600 font-bold">Weather Dashboard</h1>
                 {cities.length > 0 &&
-                    <a href='https://github.com/codeArtCreator/weather-dashboard' target='_blank'>
+                    <a href='https://github.com/codeArtCreator/weather' target='_blank'>
                         <Icon icon="fluent-mdl2:git-hub-logo" width="30" height="30" />
                     </a>
                 }
