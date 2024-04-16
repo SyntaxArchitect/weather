@@ -31,7 +31,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 #### To run the project locally, follow these steps:
 
-- Clone the repository: git clone https://github.com/codeArtCreator/weather-dashboard
+- Clone the repository: git clone https://github.com/codeArtCreator/weather
 - Navigate to the project directory: cd weather-dashboard
 - Install dependencies: npm install
 - Obtain an API key from OpenWeatherMap (https://openweathermap.org/api) and replace YOUR_API_KEY in the .env file with your API key
